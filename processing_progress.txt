@@ -1,0 +1,7 @@
+video: 11.mp4
+frame_count: 36660
+processed_count: 1222
+clear_count: 1019
+blurry_count: 203
+progress_percent: 95.72301425661914
+timestamp: 2025-03-20 02:21:59

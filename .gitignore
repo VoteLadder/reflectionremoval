@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+.DS_Store
+.env
+.Trash-0
+.ipynb_checkpoints
+*.mp4
+checkpoints
+*/
+
